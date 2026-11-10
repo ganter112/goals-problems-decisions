@@ -1,4 +1,4 @@
-# Problem Solving 101, as Claude skills
+# Goals, problems, decisions: 3 agent skills
 
 Three skills that turn Ken Watanabe's *Problem Solving 101* into an interview your AI runs with you.
 
@@ -21,7 +21,7 @@ The skills use the open [Agent Skills](https://agentskills.io) format: a folder 
 **Any coding agent, one command** (needs Node.js):
 
 ```bash
-npx skills add ganter112/problem-solving-skills
+npx skills add ganter112/goals-problems-decisions
 ```
 
 It asks which skills and which agents to install to. Add `-g` to make them available in every project. This uses the open [skills CLI](https://github.com/vercel-labs/skills).
